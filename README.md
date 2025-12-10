@@ -36,7 +36,8 @@ A* Search Algorithm
 </ol>
 
 <h2>PROGRAM :</h2>
-<pre><code>
+<pre>
+```py
 from collections import defaultdict
 H_dist ={}
 def aStarAlgo(start_node, stop_node):
@@ -104,7 +105,8 @@ Graph_nodes=graph
 start=input()
 goal=input()
 aStarAlgo(start, goal)
-</code></pre>
+```
+</pre>
 
 <hr>
 <h2>Sample Graph I</h2>
